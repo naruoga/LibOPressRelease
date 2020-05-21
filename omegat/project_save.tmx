@@ -38,14 +38,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;/f8&gt;</seg>
-      </tuv>
-      <tuv lang="ja" changeid="naruhiko" changedate="20200521T035519Z" creationid="naruhiko" creationdate="20200521T035519Z">
-        <seg>4&lt;/f8&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&lt;f0&gt;All versions of &lt;/f0&gt;LibreOffice a&lt;f1&gt;re&lt;/f1&gt; built with document conversion libraries from the Document Liberation Project: &lt;a2&gt;http&lt;/a2&gt;&lt;a3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/a3&gt;&lt;a5&gt;://www.documentliberation.org&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T035109Z" creationid="naruhiko" creationdate="20200521T033812Z">
