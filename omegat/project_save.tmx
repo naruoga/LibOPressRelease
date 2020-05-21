@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;For enterprise class deployment&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt;, TDF strongly recommen&lt;/f2&gt;&lt;f3&gt;d&lt;/f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;f5&gt; sourcing &lt;/f5&gt;&lt;f6&gt;LibreOffice &lt;/f6&gt;&lt;f7&gt;from one of t&lt;/f7&gt;&lt;f8&gt;he&lt;/f8&gt;&lt;f9&gt; ecosystem partners &lt;/f9&gt;&lt;f10&gt;to&lt;/f10&gt;&lt;f11&gt; get long-term supported releases, &lt;/f11&gt;&lt;f12&gt;dedicated &lt;/f12&gt;&lt;f13&gt;assistance, custom new features and other benefits, &lt;/f13&gt;&lt;f14&gt;including &lt;/f14&gt;&lt;f15&gt;Service Level Agreement&lt;/f15&gt;&lt;f16&gt;s&lt;/f16&gt;&lt;f17&gt; (SLA&lt;/f17&gt;&lt;f18&gt;s&lt;/f18&gt;&lt;f19&gt;): &lt;/f19&gt;&lt;a20&gt;https://www.libreoffice.org/download/libreoffice-in-business/&lt;/a20&gt;&lt;f21&gt; Also, the work done by ecosystem partners flows back into the LibreOffice project, benefiting everyone.&lt;/f21&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T130652Z" creationid="naruhiko" creationdate="20200521T130652Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;企業クラスの配備には、LibreOfficeエコシステムのパートナーからLibreOfficeを導入することをTDFは強くお奨めします。長期サポート版リリースや、専用の支援、必要に応じた新機能やバグ修正、サービス水準合意(SLA)を含め他のメリットもあります：&lt;a20&gt;https://www.libreoffice.org/download/libreoffice-in-business/&lt;/a20&gt; さらに、エコシステムパートナーによってなされた活動はLibreOfficeに還元され、万人の利益となります。 &lt;f21&gt;&lt;/f21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice 6.&lt;/f0&gt;&lt;f1&gt;4.&lt;/f1&gt;&lt;f2&gt;4&lt;/f2&gt;&lt;f3&gt;’s&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;change log page&lt;/f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;are available on TDF’s wiki&lt;/f8&gt;&lt;f9&gt;: &lt;/f9&gt;&lt;a10&gt;&lt;f11&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC1&lt;/f11&gt;&lt;/a10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;(changed in RC1) &lt;/f13&gt;&lt;f14&gt;and&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;a16&gt;&lt;f17&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC2&lt;/f17&gt;&lt;/a16&gt;&lt;f18&gt; (ch&lt;/f18&gt;&lt;f19&gt;a&lt;/f19&gt;&lt;f20&gt;nged in RC2).&lt;/f20&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T034924Z" creationid="naruhiko" creationdate="20200521T033727Z">
