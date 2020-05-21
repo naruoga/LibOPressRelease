@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><it pos="end" x="11">&lt;/f11&gt;</it><bpt i="12" x="12">&lt;f12&gt;</bpt>Minimum requirements <ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt>are specified on the download page<ept i="13">&lt;/f13&gt;</ept><it pos="begin" x="14">&lt;f14&gt;</it>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T033628Z" creationid="naruhiko" creationdate="20200521T033628Z">
+        <seg>最小の必須要件はダウンロードのページに書かれています。<it pos="end" x="11">&lt;/f11&gt;</it><bpt i="12" x="12">&lt;f12&gt;</bpt><ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt><ept i="13">&lt;/f13&gt;</ept><it pos="begin" x="14">&lt;f14&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><it pos="end" x="14">&lt;/f14&gt;</it><bpt i="15" x="15">&lt;f15&gt;</bpt>TDF b<ept i="15">&lt;/f15&gt;</ept><bpt i="16" x="16">&lt;f16&gt;</bpt>uilds of the latest LibreOffice Online source code are available as Docker images: <ept i="16">&lt;/f16&gt;</ept><bpt i="17" x="17">&lt;a17&gt;</bpt>https://hub.docker.com/r/libreoffice/online/<ept i="17">&lt;/a17&gt;</ept><it pos="begin" x="18">&lt;f18&gt;</it>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T034719Z" creationid="naruhiko" creationdate="20200521T033657Z">
+        <seg>最新のLibreOffice OnlineのソースコードのTDF版ビルドはDockerイメージとして入手できます: <it pos="end" x="14">&lt;/f14&gt;</it><bpt i="15" x="15">&lt;f15&gt;</bpt><ept i="15">&lt;/f15&gt;</ept><bpt i="16" x="16">&lt;f16&gt;</bpt><ept i="16">&lt;/f16&gt;</ept><bpt i="17" x="17">&lt;a17&gt;</bpt>https://hub.docker.com/r/libreoffice/online/<ept i="17">&lt;/a17&gt;</ept><it pos="begin" x="18">&lt;f18&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><it pos="end" x="5">&lt;/f5&gt;</it><bpt i="6" x="6">&lt;f6&gt;</bpt>D<ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;f7&gt;</bpt>onation<ept i="7">&lt;/f7&gt;</ept><bpt i="8" x="8">&lt;f8&gt;</bpt>s<ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt> help us <ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;f10&gt;</bpt>to <ept i="10">&lt;/f10&gt;</ept><bpt i="11" x="11">&lt;f11&gt;</bpt>make <ept i="11">&lt;/f11&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt>all of <ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt>these <ept i="13">&lt;/f13&gt;</ept><bpt i="14" x="14">&lt;f14&gt;</bpt>resources <ept i="14">&lt;/f14&gt;</ept><bpt i="15" x="15">&lt;f15&gt;</bpt>available.<ept i="15">&lt;/f15&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T033419Z" creationid="naruhiko" creationdate="20200521T033419Z">
+        <seg>寄付のおかげでこれらの全ての資料が利用可能になっています。<it pos="end" x="5">&lt;/f5&gt;</it><bpt i="6" x="6">&lt;f6&gt;</bpt><ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;f7&gt;</bpt><ept i="7">&lt;/f7&gt;</ept><bpt i="8" x="8">&lt;f8&gt;</bpt><ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt><ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;f10&gt;</bpt><ept i="10">&lt;/f10&gt;</ept><bpt i="11" x="11">&lt;f11&gt;</bpt><ept i="11">&lt;/f11&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt><ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt><ept i="13">&lt;/f13&gt;</ept><bpt i="14" x="14">&lt;f14&gt;</bpt><ept i="14">&lt;/f14&gt;</ept><bpt i="15" x="15">&lt;f15&gt;</bpt><ept i="15">&lt;/f15&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><it pos="end" x="7">&lt;/f7&gt;</it><bpt i="8" x="8">&lt;f8&gt;</bpt>Users wanting a more mature version can download LibreOffice 6.<ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt>3<ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;f10&gt;</bpt>.<ept i="10">&lt;/f10&gt;</ept><bpt i="11" x="11">&lt;f11&gt;</bpt>6<ept i="11">&lt;/f11&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt>, which includes some months of back-ported fixes.<ept i="12">&lt;/f12&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T033047Z" creationid="naruhiko" creationdate="20200521T033047Z">
+        <seg>より成熟したバージョンを求めるユーザーの方向けには、数ヶ月に渡る修正がバックポートされたLibreOffice 6.3.6がご利用いただけます。<it pos="end" x="7">&lt;/f7&gt;</it><bpt i="8" x="8">&lt;f8&gt;</bpt><ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt><ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;f10&gt;</bpt><ept i="10">&lt;/f10&gt;</ept><bpt i="11" x="11">&lt;f11&gt;</bpt><ept i="11">&lt;/f11&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt><ept i="12">&lt;/f12&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><it pos="end" x="8">&lt;/f8&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T035519Z" creationid="naruhiko" creationdate="20200521T035519Z">
+        <seg>4<it pos="end" x="8">&lt;/f8&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>All versions of <ept i="0">&lt;/f0&gt;</ept>LibreOffice a<bpt i="1" x="1">&lt;f1&gt;</bpt>re<ept i="1">&lt;/f1&gt;</ept> built with document conversion libraries from the Document Liberation Project: <bpt i="2" x="2">&lt;a2&gt;</bpt>http<ept i="2">&lt;/a2&gt;</ept><bpt i="3" x="3">&lt;a3&gt;</bpt><bpt i="4" x="4">&lt;f4&gt;</bpt>s<ept i="4">&lt;/f4&gt;</ept><ept i="3">&lt;/a3&gt;</ept><bpt i="5" x="5">&lt;a5&gt;</bpt>://www.documentliberation.org<ept i="5">&lt;/a5&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T035109Z" creationid="naruhiko" creationdate="20200521T033812Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt><ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><ept i="1">&lt;/f1&gt;</ept>LibreOfficeのどのバージョンでも、Document Liberationプロジェクト <bpt i="2" x="2">&lt;a2&gt;</bpt>https://www.documentliberation.org<ept i="2">&lt;/a2&gt;</ept> による文書変換ライブラリの上に構築されています。 <bpt i="3" x="3">&lt;a3&gt;</bpt><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><ept i="3">&lt;/a3&gt;</ept><bpt i="5" x="5">&lt;a5&gt;</bpt><ept i="5">&lt;/a5&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Availability of LibreOffice <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>6.<ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>4.<ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt>4<ept i="3">&lt;/f3&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T034222Z" creationid="naruhiko" creationdate="20200521T033444Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice 6.4.4の利用<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Berlin<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>, <ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>May 21,<ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt> 20<ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt>20<ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt> – The Document Foundation announces <ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt>the availability of <ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;f7&gt;</bpt>LibreOffice 6.<ept i="7">&lt;/f7&gt;</ept><bpt i="8" x="8">&lt;f8&gt;</bpt>4.<ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt>4<ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;f10&gt;</bpt>, <ept i="10">&lt;/f10&gt;</ept><bpt i="11" x="11">&lt;f11&gt;</bpt>the <ept i="11">&lt;/f11&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt>4th<ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt> minor release of the LibreOffice 6.<ept i="13">&lt;/f13&gt;</ept><bpt i="14" x="14">&lt;f14&gt;</bpt>4<ept i="14">&lt;/f14&gt;</ept><it pos="begin" x="15">&lt;f15&gt;</it> family, targeted at technology enthusiasts and power users.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T032927Z" creationid="naruhiko" creationdate="20200521T032618Z">
+        <seg>ベルリン、2020年5月21日 - The Document FoundationはLibreOffice 6.4.4が利用可能になったことをお知らせします。このバージョンはLibreOffice 6.4系の4番目のマイナーリリースであり、技術に情熱を燃やす方や、熟練したユーザー向けです。<bpt i="0" x="0">&lt;f0&gt;</bpt><ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt><ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt><ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;f7&gt;</bpt><ept i="7">&lt;/f7&gt;</ept><bpt i="8" x="8">&lt;f8&gt;</bpt><ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt><ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;f10&gt;</bpt><ept i="10">&lt;/f10&gt;</ept><bpt i="11" x="11">&lt;f11&gt;</bpt><ept i="11">&lt;/f11&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt><ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt><ept i="13">&lt;/f13&gt;</ept><bpt i="14" x="14">&lt;f14&gt;</bpt><ept i="14">&lt;/f14&gt;</ept><it pos="begin" x="15">&lt;f15&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>For enterprise class deployment<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>s<ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>, TDF strongly recommen<ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt>d<ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt> sourcing <ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt>LibreOffice <ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt>from one of t<ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;f7&gt;</bpt>he<ept i="7">&lt;/f7&gt;</ept><bpt i="8" x="8">&lt;f8&gt;</bpt> ecosystem partners <ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt>to<ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;f10&gt;</bpt> get long-term supported releases, <ept i="10">&lt;/f10&gt;</ept><bpt i="11" x="11">&lt;f11&gt;</bpt>dedicated <ept i="11">&lt;/f11&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt>assistance, custom new features and other benefits, <ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt>including <ept i="13">&lt;/f13&gt;</ept><bpt i="14" x="14">&lt;f14&gt;</bpt>Service Level Agreement<ept i="14">&lt;/f14&gt;</ept><bpt i="15" x="15">&lt;f15&gt;</bpt>s<ept i="15">&lt;/f15&gt;</ept><bpt i="16" x="16">&lt;f16&gt;</bpt> (SLA<ept i="16">&lt;/f16&gt;</ept><bpt i="17" x="17">&lt;f17&gt;</bpt>s<ept i="17">&lt;/f17&gt;</ept><it pos="begin" x="18">&lt;f18&gt;</it>).</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T033210Z" creationid="naruhiko" creationdate="20200521T033202Z">
+        <seg>企業クラスの配備には、LibreOfficeエコシステムのパートナーからLibreOfficeを導入することをTDFは強くお奨めします。長期サポート版リリースや、専用の支援、必要に応じた新機能やバグ修正、サービス水準合意(SLA)を含め他のメリットもあります。<bpt i="0" x="0">&lt;f0&gt;</bpt><ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt><ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt><ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;f7&gt;</bpt><ept i="7">&lt;/f7&gt;</ept><bpt i="8" x="8">&lt;f8&gt;</bpt><ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt><ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;f10&gt;</bpt><ept i="10">&lt;/f10&gt;</ept><bpt i="11" x="11">&lt;f11&gt;</bpt><ept i="11">&lt;/f11&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt><ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt><ept i="13">&lt;/f13&gt;</ept><bpt i="14" x="14">&lt;f14&gt;</bpt><ept i="14">&lt;/f14&gt;</ept><bpt i="15" x="15">&lt;f15&gt;</bpt><ept i="15">&lt;/f15&gt;</ept><bpt i="16" x="16">&lt;f16&gt;</bpt><ept i="16">&lt;/f16&gt;</ept><bpt i="17" x="17">&lt;f17&gt;</bpt><ept i="17">&lt;/f17&gt;</ept><it pos="begin" x="18">&lt;f18&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice 6.<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>4.<ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>4<ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt>’s<ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt> <ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt>change log page<ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt>s<ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;f7&gt;</bpt> <ept i="7">&lt;/f7&gt;</ept><bpt i="8" x="8">&lt;f8&gt;</bpt>are available on TDF’s wiki<ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt>: <ept i="9">&lt;/f9&gt;</ept><bpt i="10" x="10">&lt;a10&gt;</bpt><bpt i="11" x="11">&lt;f11&gt;</bpt>https://wiki.documentfoundation.org/Releases/6.4.4/RC1<ept i="11">&lt;/f11&gt;</ept><ept i="10">&lt;/a10&gt;</ept><bpt i="12" x="12">&lt;f12&gt;</bpt> <ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt>(changed in RC1) <ept i="13">&lt;/f13&gt;</ept><bpt i="14" x="14">&lt;f14&gt;</bpt>and<ept i="14">&lt;/f14&gt;</ept><bpt i="15" x="15">&lt;f15&gt;</bpt> <ept i="15">&lt;/f15&gt;</ept><bpt i="16" x="16">&lt;a16&gt;</bpt><bpt i="17" x="17">&lt;f17&gt;</bpt>https://wiki.documentfoundation.org/Releases/6.4.4/RC2<ept i="17">&lt;/f17&gt;</ept><ept i="16">&lt;/a16&gt;</ept><bpt i="18" x="18">&lt;f18&gt;</bpt> (ch<ept i="18">&lt;/f18&gt;</ept><bpt i="19" x="19">&lt;f19&gt;</bpt>a<ept i="19">&lt;/f19&gt;</ept><bpt i="20" x="20">&lt;f20&gt;</bpt>nged in RC2).<ept i="20">&lt;/f20&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T034924Z" creationid="naruhiko" creationdate="20200521T033727Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt><ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt><ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt><ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;f7&gt;</bpt><ept i="7">&lt;/f7&gt;</ept><bpt i="8" x="8">&lt;f8&gt;</bpt><ept i="8">&lt;/f8&gt;</ept><bpt i="9" x="9">&lt;f9&gt;</bpt><ept i="9">&lt;/f9&gt;</ept>LibreOffice 6.4.4の変更履歴はTDFのwikiでご覧いただけます: <bpt i="10" x="10">&lt;a10&gt;</bpt>https://wiki.documentfoundation.org/Releases/6.4.4/RC1<bpt i="11" x="11">&lt;f11&gt;</bpt><ept i="11">&lt;/f11&gt;</ept><ept i="10">&lt;/a10&gt;</ept> (RC1で修正) <bpt i="12" x="12">&lt;f12&gt;</bpt><ept i="12">&lt;/f12&gt;</ept><bpt i="13" x="13">&lt;f13&gt;</bpt><ept i="13">&lt;/f13&gt;</ept><bpt i="14" x="14">&lt;f14&gt;</bpt><ept i="14">&lt;/f14&gt;</ept><bpt i="15" x="15">&lt;f15&gt;</bpt><ept i="15">&lt;/f15&gt;</ept><bpt i="16" x="16">&lt;a16&gt;</bpt>https://wiki.documentfoundation.org/Releases/6.4.4/RC2<bpt i="17" x="17">&lt;f17&gt;</bpt><ept i="17">&lt;/f17&gt;</ept><ept i="16">&lt;/a16&gt;</ept> (RC2で修正)<bpt i="18" x="18">&lt;f18&gt;</bpt><ept i="18">&lt;/f18&gt;</ept><bpt i="19" x="19">&lt;f19&gt;</bpt><ept i="19">&lt;/f19&gt;</ept><bpt i="20" x="20">&lt;f20&gt;</bpt><ept i="20">&lt;/f20&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>6.<ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>4.<ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt>4<ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt> i<ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt>s<ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt> immediately available from the following link: <ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;a7&gt;</bpt>http<ept i="7">&lt;/a7&gt;</ept><bpt i="8" x="8">&lt;a8&gt;</bpt><bpt i="9" x="9">&lt;f9&gt;</bpt>s<ept i="9">&lt;/f9&gt;</ept><ept i="8">&lt;/a8&gt;</ept><bpt i="10" x="10">&lt;a10&gt;</bpt>://www.libreoffice.org/download/<ept i="10">&lt;/a10&gt;</ept><it pos="begin" x="11">&lt;f11&gt;</it>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T035538Z" creationid="naruhiko" creationdate="20200521T033508Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice 6.4.4は以下のリンクから今すぐダウンロードしてご利用いただけます: <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt><ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt><ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;a7&gt;</bpt>https://ja.libreoffice.org/download/<ept i="7">&lt;/a7&gt;</ept><bpt i="8" x="8">&lt;a8&gt;</bpt><bpt i="9" x="9">&lt;f9&gt;</bpt><ept i="9">&lt;/f9&gt;</ept><ept i="8">&lt;/a8&gt;</ept><bpt i="10" x="10">&lt;a10&gt;</bpt><ept i="10">&lt;/a10&gt;</ept><it pos="begin" x="11">&lt;f11&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>6.<ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>4<ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt>.<ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt>4<ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt> available for download<ept i="5">&lt;/f5&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T032535Z" creationid="naruhiko" creationdate="20200521T032535Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>6.<ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>4<ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt>.<ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt>4<ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt> がご利用いただけます	<ept i="5">&lt;/f5&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>6.<ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>4<ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt>.<ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt>4<ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt> represents the bleeding edge in term of features for open source office suites, and as such is <ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt>not optimized for enterprise class deployments, where features are less important than robustness<ept i="6">&lt;/f6&gt;</ept><it pos="begin" x="7">&lt;f7&gt;</it>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T033010Z" creationid="naruhiko" creationdate="20200521T033010Z">
+        <seg>LibreOffice 6.4.4はオープンソースのオフィススイートとして最先端の機能を実現しており、そのため最新の機能より頑健性が求められる企業クラスの配備には最適ではありません。<bpt i="0" x="0">&lt;f0&gt;</bpt><ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt><ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt><ept i="6">&lt;/f6&gt;</ept><it pos="begin" x="7">&lt;f7&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice users, free software advocates and community members can <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt>provide financial <ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt>support <ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt>to <ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt>The Document Foundation with a donation <ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt>via PayPal, credit card or other tools <ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt>at <ept i="6">&lt;/f6&gt;</ept><bpt i="7" x="7">&lt;a7&gt;</bpt>http<ept i="7">&lt;/a7&gt;</ept><bpt i="8" x="8">&lt;a8&gt;</bpt><bpt i="9" x="9">&lt;f9&gt;</bpt>s<ept i="9">&lt;/f9&gt;</ept><ept i="8">&lt;/a8&gt;</ept><bpt i="10" x="10">&lt;a10&gt;</bpt>://www.libreoffice.org/donate<ept i="10">&lt;/a10&gt;</ept><it pos="begin" x="11">&lt;f11&gt;</it>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T035230Z" creationid="naruhiko" creationdate="20200521T033958Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt><ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><ept i="2">&lt;/f2&gt;</ept><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><bpt i="5" x="5">&lt;f5&gt;</bpt><ept i="5">&lt;/f5&gt;</ept><bpt i="6" x="6">&lt;f6&gt;</bpt><ept i="6">&lt;/f6&gt;</ept>LibreOfficeのユーザーおよびフリーソフトウェアに賛同する方、コミュニティのメンバーは、PayPalやクレジットカード、その他のツールを用いて寄付することでThe Document Foundationを支援できます: <bpt i="7" x="7">&lt;a7&gt;</bpt>https://ja.libreoffice.org/donate<ept i="7">&lt;/a7&gt;</ept><bpt i="8" x="8">&lt;a8&gt;</bpt><bpt i="9" x="9">&lt;f9&gt;</bpt><ept i="9">&lt;/f9&gt;</ept><ept i="8">&lt;/a8&gt;</ept><bpt i="10" x="10">&lt;a10&gt;</bpt><ept i="10">&lt;/a10&gt;</ept><it pos="begin" x="11">&lt;f11&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>LibreOffice’s individual users are helped by a global community of volunteers: <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;a1&gt;</bpt>https://www.libreoffice.org/get-help/community-support/<ept i="1">&lt;/a1&gt;</ept><it pos="begin" x="2">&lt;f2&gt;</it>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T034346Z" creationid="naruhiko" creationdate="20200521T033345Z">
+        <seg>世界中にいるボランティアがLibreOfficeを利用する個人ユーザーを手助けしてくれます: <bpt i="1" x="1">&lt;a1&gt;</bpt>https://ja.libreoffice.org/get-help/community-support/<ept i="1">&lt;/a1&gt;</ept><bpt i="0" x="0">&lt;f0&gt;</bpt><ept i="0">&lt;/f0&gt;</ept><it pos="begin" x="2">&lt;f2&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also, the work done by ecosystem partners flows back into the LibreOffice project, benefiting everyone.<it pos="end" x="18">&lt;/f18&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T033300Z" creationid="naruhiko" creationdate="20200521T033300Z">
+        <seg>さらに、エコシステムパートナーによってなされた活動はLibreOfficeに還元され、万人の利益となります。<it pos="end" x="18">&lt;/f18&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice 6.4.<it pos="end" x="15">&lt;/f15&gt;</it><bpt i="16" x="16">&lt;f16&gt;</bpt>4<ept i="16">&lt;/f16&gt;</ept><bpt i="17" x="17">&lt;f17&gt;</bpt> includes <ept i="17">&lt;/f17&gt;</ept><bpt i="18" x="18">&lt;f18&gt;</bpt>several<ept i="18">&lt;/f18&gt;</ept><bpt i="19" x="19">&lt;f19&gt;</bpt> bug fixes and improvements to document compatibility.<ept i="19">&lt;/f19&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T032922Z" creationid="naruhiko" creationdate="20200521T032922Z">
+        <seg>LibreOffice 6.4.4では不具合や回帰バグが修正されており、文書の互換性の点で改善されています。<it pos="end" x="15">&lt;/f15&gt;</it><bpt i="16" x="16">&lt;f16&gt;</bpt><ept i="16">&lt;/f16&gt;</ept><bpt i="17" x="17">&lt;f17&gt;</bpt><ept i="17">&lt;/f17&gt;</ept><bpt i="18" x="18">&lt;f18&gt;</bpt><ept i="18">&lt;/f18&gt;</ept><bpt i="19" x="19">&lt;f19&gt;</bpt><ept i="19">&lt;/f19&gt;</ept>
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice users are invited to<bpt i="0" x="0">&lt;f0&gt;</bpt> join the community at <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;a1&gt;</bpt>https://<ept i="1">&lt;/a1&gt;</ept><bpt i="2" x="2">&lt;a2&gt;</bpt><bpt i="3" x="3">&lt;f3&gt;</bpt>ask.libreoffice.org<ept i="3">&lt;/f3&gt;</ept><ept i="2">&lt;/a2&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt>, where <ept i="4">&lt;/f4&gt;</ept>they<it pos="begin" x="5">&lt;f5&gt;</it> can get and provide user-to-user support.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T035134Z" creationid="naruhiko" creationdate="20200521T033843Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt><ept i="0">&lt;/f0&gt;</ept>LibreOfficeユーザーは是非 <bpt i="1" x="1">&lt;a1&gt;</bpt>https://ask.libreoffice.org/ja/<ept i="1">&lt;/a1&gt;</ept> のコミュニティに加わってください。ユーザー同士でお互いに助け合えます。<bpt i="2" x="2">&lt;a2&gt;</bpt><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept><ept i="2">&lt;/a2&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><it pos="begin" x="5">&lt;f5&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the website and the wiki there <it pos="end" x="2">&lt;/f2&gt;</it><bpt i="3" x="3">&lt;f3&gt;</bpt>are guides, manuals, tutorials and HowTo<ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt>s<ept i="4">&lt;/f4&gt;</ept><it pos="begin" x="5">&lt;f5&gt;</it>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T033408Z" creationid="naruhiko" creationdate="20200521T033408Z">
+        <seg>Webサイトおよびwikiにガイドやマニュアル、チュートリアル、ハウツーがあります。<it pos="end" x="2">&lt;/f2&gt;</it><bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept><bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept><it pos="begin" x="5">&lt;f5&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People willing to contribute their time and professional skills to the project can visit the dedicated website at <it pos="end" x="5">&lt;/f5&gt;</it><bpt i="6" x="6">&lt;a6&gt;</bpt><bpt i="7" x="7">&lt;f7&gt;</bpt>https://whatcanidoforlibreoffice.org<ept i="7">&lt;/f7&gt;</ept><ept i="6">&lt;/a6&gt;</ept><it pos="begin" x="8">&lt;f8&gt;</it>.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T035157Z" creationid="naruhiko" creationdate="20200521T033914Z">
+        <seg><it pos="end" x="5">&lt;/f5&gt;</it>プロジェクトのために時間や専門的なスキルを貢献しようという方のためのサイトもあります: <bpt i="6" x="6">&lt;a6&gt;</bpt>https://whatcanidoforlibreoffice.org<bpt i="7" x="7">&lt;f7&gt;</bpt><ept i="7">&lt;/f7&gt;</ept><ept i="6">&lt;/a6&gt;</ept><it pos="begin" x="8">&lt;f8&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Support LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="naruhiko" changedate="20200521T033825Z" creationid="naruhiko" creationdate="20200521T033825Z">
+        <seg>LibreOfficeを支援するには</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

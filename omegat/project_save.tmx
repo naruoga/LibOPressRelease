@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f11&gt;&lt;f12&gt;Minimum requirements &lt;/f12&gt;&lt;f13&gt;are specified on the download page&lt;/f13&gt;&lt;f14&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T033628Z" creationid="naruhiko" creationdate="20200521T033628Z">
+        <seg>最小の必須要件はダウンロードのページに書かれています。&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f14&gt;&lt;f15&gt;TDF b&lt;/f15&gt;&lt;f16&gt;uilds of the latest LibreOffice Online source code are available as Docker images: &lt;/f16&gt;&lt;a17&gt;https://hub.docker.com/r/libreoffice/online/&lt;/a17&gt;&lt;f18&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T034719Z" creationid="naruhiko" creationdate="20200521T033657Z">
+        <seg>最新のLibreOffice OnlineのソースコードのTDF版ビルドはDockerイメージとして入手できます: &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;a17&gt;https://hub.docker.com/r/libreoffice/online/&lt;/a17&gt;&lt;f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f5&gt;&lt;f6&gt;D&lt;/f6&gt;&lt;f7&gt;onation&lt;/f7&gt;&lt;f8&gt;s&lt;/f8&gt;&lt;f9&gt; help us &lt;/f9&gt;&lt;f10&gt;to &lt;/f10&gt;&lt;f11&gt;make &lt;/f11&gt;&lt;f12&gt;all of &lt;/f12&gt;&lt;f13&gt;these &lt;/f13&gt;&lt;f14&gt;resources &lt;/f14&gt;&lt;f15&gt;available.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T033419Z" creationid="naruhiko" creationdate="20200521T033419Z">
+        <seg>寄付のおかげでこれらの全ての資料が利用可能になっています。&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f7&gt;&lt;f8&gt;Users wanting a more mature version can download LibreOffice 6.&lt;/f8&gt;&lt;f9&gt;3&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;6&lt;/f11&gt;&lt;f12&gt;, which includes some months of back-ported fixes.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T033047Z" creationid="naruhiko" creationdate="20200521T033047Z">
+        <seg>より成熟したバージョンを求めるユーザーの方向けには、数ヶ月に渡る修正がバックポートされたLibreOffice 6.3.6がご利用いただけます。&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T035519Z" creationid="naruhiko" creationdate="20200521T035519Z">
+        <seg>4&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;All versions of &lt;/f0&gt;LibreOffice a&lt;f1&gt;re&lt;/f1&gt; built with document conversion libraries from the Document Liberation Project: &lt;a2&gt;http&lt;/a2&gt;&lt;a3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/a3&gt;&lt;a5&gt;://www.documentliberation.org&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T035109Z" creationid="naruhiko" creationdate="20200521T033812Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;LibreOfficeのどのバージョンでも、Document Liberationプロジェクト &lt;a2&gt;https://www.documentliberation.org&lt;/a2&gt; による文書変換ライブラリの上に構築されています。 &lt;a3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/a3&gt;&lt;a5&gt;&lt;/a5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Availability of LibreOffice &lt;/f0&gt;&lt;f1&gt;6.&lt;/f1&gt;&lt;f2&gt;4.&lt;/f2&gt;&lt;f3&gt;4&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T034222Z" creationid="naruhiko" creationdate="20200521T033444Z">
+        <seg>&lt;f0&gt;LibreOffice 6.4.4の利用&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Berlin&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;May 21,&lt;/f2&gt;&lt;f3&gt; 20&lt;/f3&gt;&lt;f4&gt;20&lt;/f4&gt;&lt;f5&gt; – The Document Foundation announces &lt;/f5&gt;&lt;f6&gt;the availability of &lt;/f6&gt;&lt;f7&gt;LibreOffice 6.&lt;/f7&gt;&lt;f8&gt;4.&lt;/f8&gt;&lt;f9&gt;4&lt;/f9&gt;&lt;f10&gt;, &lt;/f10&gt;&lt;f11&gt;the &lt;/f11&gt;&lt;f12&gt;4th&lt;/f12&gt;&lt;f13&gt; minor release of the LibreOffice 6.&lt;/f13&gt;&lt;f14&gt;4&lt;/f14&gt;&lt;f15&gt; family, targeted at technology enthusiasts and power users.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T032927Z" creationid="naruhiko" creationdate="20200521T032618Z">
+        <seg>ベルリン、2020年5月21日 - The Document FoundationはLibreOffice 6.4.4が利用可能になったことをお知らせします。このバージョンはLibreOffice 6.4系の4番目のマイナーリリースであり、技術に情熱を燃やす方や、熟練したユーザー向けです。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;For enterprise class deployment&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt;, TDF strongly recommen&lt;/f2&gt;&lt;f3&gt;d&lt;/f3&gt;&lt;f4&gt; sourcing &lt;/f4&gt;&lt;f5&gt;LibreOffice &lt;/f5&gt;&lt;f6&gt;from one of t&lt;/f6&gt;&lt;f7&gt;he&lt;/f7&gt;&lt;f8&gt; ecosystem partners &lt;/f8&gt;&lt;f9&gt;to&lt;/f9&gt;&lt;f10&gt; get long-term supported releases, &lt;/f10&gt;&lt;f11&gt;dedicated &lt;/f11&gt;&lt;f12&gt;assistance, custom new features and other benefits, &lt;/f12&gt;&lt;f13&gt;including &lt;/f13&gt;&lt;f14&gt;Service Level Agreement&lt;/f14&gt;&lt;f15&gt;s&lt;/f15&gt;&lt;f16&gt; (SLA&lt;/f16&gt;&lt;f17&gt;s&lt;/f17&gt;&lt;f18&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T033210Z" creationid="naruhiko" creationdate="20200521T033202Z">
+        <seg>企業クラスの配備には、LibreOfficeエコシステムのパートナーからLibreOfficeを導入することをTDFは強くお奨めします。長期サポート版リリースや、専用の支援、必要に応じた新機能やバグ修正、サービス水準合意(SLA)を含め他のメリットもあります。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice 6.&lt;/f0&gt;&lt;f1&gt;4.&lt;/f1&gt;&lt;f2&gt;4&lt;/f2&gt;&lt;f3&gt;’s&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;change log page&lt;/f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;are available on TDF’s wiki&lt;/f8&gt;&lt;f9&gt;: &lt;/f9&gt;&lt;a10&gt;&lt;f11&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC1&lt;/f11&gt;&lt;/a10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;(changed in RC1) &lt;/f13&gt;&lt;f14&gt;and&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;a16&gt;&lt;f17&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC2&lt;/f17&gt;&lt;/a16&gt;&lt;f18&gt; (ch&lt;/f18&gt;&lt;f19&gt;a&lt;/f19&gt;&lt;f20&gt;nged in RC2).&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T034924Z" creationid="naruhiko" creationdate="20200521T033727Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;LibreOffice 6.4.4の変更履歴はTDFのwikiでご覧いただけます: &lt;a10&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC1&lt;f11&gt;&lt;/f11&gt;&lt;/a10&gt; (RC1で修正) &lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;a16&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC2&lt;f17&gt;&lt;/f17&gt;&lt;/a16&gt; (RC2で修正)&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;6.&lt;/f1&gt;&lt;f2&gt;4.&lt;/f2&gt;&lt;f3&gt;4&lt;/f3&gt;&lt;f4&gt; i&lt;/f4&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;f6&gt; immediately available from the following link: &lt;/f6&gt;&lt;a7&gt;http&lt;/a7&gt;&lt;a8&gt;&lt;f9&gt;s&lt;/f9&gt;&lt;/a8&gt;&lt;a10&gt;://www.libreoffice.org/download/&lt;/a10&gt;&lt;f11&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T035538Z" creationid="naruhiko" creationdate="20200521T033508Z">
+        <seg>&lt;f0&gt;LibreOffice 6.4.4は以下のリンクから今すぐダウンロードしてご利用いただけます: &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;a7&gt;https://ja.libreoffice.org/download/&lt;/a7&gt;&lt;a8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/a8&gt;&lt;a10&gt;&lt;/a10&gt;&lt;f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;6.&lt;/f1&gt;&lt;f2&gt;4&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;f5&gt; available for download&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T032535Z" creationid="naruhiko" creationdate="20200521T032535Z">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;6.&lt;/f1&gt;&lt;f2&gt;4&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;f5&gt; がご利用いただけます	&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;6.&lt;/f1&gt;&lt;f2&gt;4&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;4&lt;/f4&gt;&lt;f5&gt; represents the bleeding edge in term of features for open source office suites, and as such is &lt;/f5&gt;&lt;f6&gt;not optimized for enterprise class deployments, where features are less important than robustness&lt;/f6&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T033010Z" creationid="naruhiko" creationdate="20200521T033010Z">
+        <seg>LibreOffice 6.4.4はオープンソースのオフィススイートとして最先端の機能を実現しており、そのため最新の機能より頑健性が求められる企業クラスの配備には最適ではありません。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice users, free software advocates and community members can &lt;/f0&gt;&lt;f1&gt;provide financial &lt;/f1&gt;&lt;f2&gt;support &lt;/f2&gt;&lt;f3&gt;to &lt;/f3&gt;&lt;f4&gt;The Document Foundation with a donation &lt;/f4&gt;&lt;f5&gt;via PayPal, credit card or other tools &lt;/f5&gt;&lt;f6&gt;at &lt;/f6&gt;&lt;a7&gt;http&lt;/a7&gt;&lt;a8&gt;&lt;f9&gt;s&lt;/f9&gt;&lt;/a8&gt;&lt;a10&gt;://www.libreoffice.org/donate&lt;/a10&gt;&lt;f11&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T035230Z" creationid="naruhiko" creationdate="20200521T033958Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;LibreOfficeのユーザーおよびフリーソフトウェアに賛同する方、コミュニティのメンバーは、PayPalやクレジットカード、その他のツールを用いて寄付することでThe Document Foundationを支援できます: &lt;a7&gt;https://ja.libreoffice.org/donate&lt;/a7&gt;&lt;a8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/a8&gt;&lt;a10&gt;&lt;/a10&gt;&lt;f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice’s individual users are helped by a global community of volunteers: &lt;/f0&gt;&lt;a1&gt;https://www.libreoffice.org/get-help/community-support/&lt;/a1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T034346Z" creationid="naruhiko" creationdate="20200521T033345Z">
+        <seg>世界中にいるボランティアがLibreOfficeを利用する個人ユーザーを手助けしてくれます: &lt;a1&gt;https://ja.libreoffice.org/get-help/community-support/&lt;/a1&gt;&lt;f0&gt;&lt;/f0&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, the work done by ecosystem partners flows back into the LibreOffice project, benefiting everyone.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T033300Z" creationid="naruhiko" creationdate="20200521T033300Z">
+        <seg>さらに、エコシステムパートナーによってなされた活動はLibreOfficeに還元され、万人の利益となります。&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice 6.4.&lt;/f15&gt;&lt;f16&gt;4&lt;/f16&gt;&lt;f17&gt; includes &lt;/f17&gt;&lt;f18&gt;several&lt;/f18&gt;&lt;f19&gt; bug fixes and improvements to document compatibility.&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T032922Z" creationid="naruhiko" creationdate="20200521T032922Z">
+        <seg>LibreOffice 6.4.4では不具合や回帰バグが修正されており、文書の互換性の点で改善されています。&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice users are invited to&lt;f0&gt; join the community at &lt;/f0&gt;&lt;a1&gt;https://&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;ask.libreoffice.org&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt;, where &lt;/f4&gt;they&lt;f5&gt; can get and provide user-to-user support.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T035134Z" creationid="naruhiko" creationdate="20200521T033843Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;LibreOfficeユーザーは是非 &lt;a1&gt;https://ask.libreoffice.org/ja/&lt;/a1&gt; のコミュニティに加わってください。ユーザー同士でお互いに助け合えます。&lt;a2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the website and the wiki there &lt;/f2&gt;&lt;f3&gt;are guides, manuals, tutorials and HowTo&lt;/f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T033408Z" creationid="naruhiko" creationdate="20200521T033408Z">
+        <seg>Webサイトおよびwikiにガイドやマニュアル、チュートリアル、ハウツーがあります。&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>People willing to contribute their time and professional skills to the project can visit the dedicated website at &lt;/f5&gt;&lt;a6&gt;&lt;f7&gt;https://whatcanidoforlibreoffice.org&lt;/f7&gt;&lt;/a6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T035157Z" creationid="naruhiko" creationdate="20200521T033914Z">
+        <seg>&lt;/f5&gt;プロジェクトのために時間や専門的なスキルを貢献しようという方のためのサイトもあります: &lt;a6&gt;https://whatcanidoforlibreoffice.org&lt;f7&gt;&lt;/f7&gt;&lt;/a6&gt;&lt;f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support LibreOffice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="naruhiko" changedate="20200521T033825Z" creationid="naruhiko" creationdate="20200521T033825Z">
+        <seg>LibreOfficeを支援するには</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
