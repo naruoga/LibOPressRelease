@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -146,6 +146,14 @@
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T033300Z" creationid="naruhiko" creationdate="20200521T033300Z">
         <seg>さらに、エコシステムパートナーによってなされた活動はLibreOfficeに還元され、万人の利益となります。&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Announcement of LibreOffice 6.4.5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T013400Z" creationid="Naruhiko Ogasawara" creationdate="20200703T013400Z">
+        <seg>LibreOffice 6.4.5のご案内</seg>
       </tuv>
     </tu>
     <tu>
