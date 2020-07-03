@@ -222,6 +222,14 @@
         <seg>LibreOfficeを支援するには</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users of LibreOffice 6.3.6 and previous versions should start planning the update to LibreOffice 6.4.5, as the new major LibreOffice release – tagged 7.0 – is going to be announced in early August.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014716Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014629Z">
+        <seg>LibreOffice 6.3.6 およびそれ以前のバージョンのユーザーは LibreOffice 6.4.5へのアップデートを計画してください。 LibreOffice の新しいリリース - タグ 7.0 とされています - は、 8 月初旬に発表される予定です。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
