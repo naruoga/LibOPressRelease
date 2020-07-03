@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;For enterprise class deployments, TDF strongly recommends sourcing LibreOffice from one of the ecosystem partners, to get long-term supported releases, dedicated assistance, custom new features and other benefits, including SLAs (Service Level Agreements): &lt;/f0&gt;&lt;a1&gt;https://www.libreoffice.org/download/libreoffice-in-business/&lt;/a1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014848Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014848Z">
+        <seg>企業クラスの配備には、LibreOfficeエコシステムのパートナーからLibreOfficeを導入することをTDFは強くお奨めします。長期サポート版リリースや、専用の支援、必要に応じた新機能やバグ修正、サービス水準合意(SLA)を含め他のメリットもあります。&lt;f0&gt;&lt;/f0&gt;&lt;a1&gt;&lt;/a1&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice 6.&lt;/f0&gt;&lt;f1&gt;4.&lt;/f1&gt;&lt;f2&gt;4&lt;/f2&gt;&lt;f3&gt;’s&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;change log page&lt;/f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;are available on TDF’s wiki&lt;/f8&gt;&lt;f9&gt;: &lt;/f9&gt;&lt;a10&gt;&lt;f11&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC1&lt;/f11&gt;&lt;/a10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;(changed in RC1) &lt;/f13&gt;&lt;f14&gt;and&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;a16&gt;&lt;f17&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC2&lt;/f17&gt;&lt;/a16&gt;&lt;f18&gt; (ch&lt;/f18&gt;&lt;f19&gt;a&lt;/f19&gt;&lt;f20&gt;nged in RC2).&lt;/f20&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T034924Z" creationid="naruhiko" creationdate="20200521T033727Z">
@@ -118,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice individual users are supported by a global community of volunteers: &lt;/f0&gt;&lt;a1&gt;https://www.libreoffice.org/get-help/community-support/&lt;/a1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015015Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015015Z">
+        <seg>世界中にいるボランティアがLibreOfficeを利用する個人ユーザーを手助けしてくれます:  https://ja.libreoffice.org/get-help/community-support/&lt;/a1&gt;&lt;f0&gt;&lt;/f0&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice users, free software advocates and community members can &lt;/f0&gt;&lt;f1&gt;provide financial &lt;/f1&gt;&lt;f2&gt;support &lt;/f2&gt;&lt;f3&gt;to &lt;/f3&gt;&lt;f4&gt;The Document Foundation with a donation &lt;/f4&gt;&lt;f5&gt;via PayPal, credit &lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;card or other tools &lt;/f7&gt;&lt;f8&gt;at &lt;/f8&gt;&lt;a9&gt;http&lt;/a9&gt;&lt;a10&gt;&lt;f11&gt;s&lt;/f11&gt;&lt;/a10&gt;&lt;a12&gt;://www.libreoffice.org/donate&lt;/a12&gt;&lt;f13&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T132112Z" creationid="naruhiko" creationdate="20200521T132000Z">
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T034346Z" creationid="naruhiko" creationdate="20200521T033345Z">
         <seg>世界中にいるボランティアがLibreOfficeを利用する個人ユーザーを手助けしてくれます: &lt;a1&gt;https://ja.libreoffice.org/get-help/community-support/&lt;/a1&gt;&lt;f0&gt;&lt;/f0&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, the work done by ecosystem partners flows back into the LibreOffice project, and this represents an advantage for everyone.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014947Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014947Z">
+        <seg>さらに、エコシステムパートナーによってなされた活動はLibreOfficeに還元され、すべてのユーザーにとってメリットとなります。</seg>
       </tuv>
     </tu>
     <tu>
