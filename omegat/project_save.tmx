@@ -208,8 +208,8 @@
       <tuv lang="en-US">
         <seg>Also, the work done by ecosystem partners flows back into the LibreOffice project, and this represents an advantage for everyone.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014947Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014947Z">
-        <seg>さらに、エコシステムパートナーによってなされた活動はLibreOfficeに還元され、すべてのユーザーにとってメリットとなります。</seg>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015810Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014947Z">
+        <seg>さらに、エコシステムパートナーによってなされた活動はLibreOfficeに還元され、すべてのユーザーにとってメリットとなります。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="en-US">
         <seg>Blog post:&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015645Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015645Z">
-        <seg>ブログ記事：</seg>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015950Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015645Z">
+        <seg>ブログ記事：&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,8 +314,8 @@
       <tuv lang="en-US">
         <seg>LibreOffice users, free software advocates and community members can provide financial support to The Document Foundation with a donation via PayPal, credit card or other tools at &lt;a0&gt;https://www.libreoffice.org/donate&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015538Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015538Z">
-        <seg>LibreOfficeのユーザーおよびフリーソフトウェアに賛同する方、コミュニティのメンバーは、PayPalやクレジットカード、その他のツールを用いて寄付することでThe Document Foundationを支援できます: &lt;a0&gt;&gt;</seg>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015913Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015538Z">
+        <seg>LibreOfficeのユーザーおよびフリーソフトウェアに賛同する方、コミュニティのメンバーは、PayPalやクレジットカード、その他のツールを用いて寄付することでThe Document Foundationを支援できます: &lt;a0&gt;https://www.libreoffice.org/donate&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
