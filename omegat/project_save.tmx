@@ -158,6 +158,31 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Berlin, July 2, 2020 – The Document Foundation announces the availability of LibreOffice 6.4.5, the 5th minor release of the LibreOffice 6.4 family, targeted at technology enthusiasts and power users.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014214Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014214Z">
+        <seg>ベルリン、2020年7月2日 - The Document FoundationはLibreOffice 6.4.5が利用可能になったことをお知らせします。このバージョンはLibreOffice 6.5系の5番目のマイナーリリースであり、技術に情熱を燃やす方や、熟練したユーザー向けです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice 6.4.5 includes over 100 bug fixes and improvements to document compatibility and interoperability with software from other vendors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014244Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014244Z">
+        <seg>LibreOffice 6.4.5では100個以上の不具合や回帰バグが修正されており、文書の互換性の点で改善されています。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice 6.4.5 is optimized for use in production environments, even by more conservative users, as it now includes several months of work on bug fixes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014546Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014546Z">
+        <seg>LibreOffice 6.4.5は実環境での利用に最適であり、何か月ものバグ修正の取り組みにより、保守的なユーザー向けのものとなっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice 6.4.&lt;/f15&gt;&lt;f16&gt;4&lt;/f16&gt;&lt;f17&gt; includes &lt;/f17&gt;&lt;f18&gt;several&lt;/f18&gt;&lt;f19&gt; bug fixes and improvements to document compatibility.&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T032922Z" creationid="naruhiko" creationdate="20200521T032922Z">
