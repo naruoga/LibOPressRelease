@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice 6.4.5 is immediately available from the following link: &lt;/f0&gt;&lt;a1&gt;https://www.libreoffice.org/download/&lt;/a1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015206Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015206Z">
+        <seg>&lt;f0&gt;LibreOffice 6.4.5は以下のリンクから今すぐダウンロードしてご利用いただけます: &lt;/f0&gt;&lt;a1&gt;https://ja.libreoffice.org/download/&lt;/a1&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice 6.4.5’s change log pages are available on TDF’s wiki: &lt;/f0&gt;&lt;a1&gt;https://wiki.documentfoundation.org/Releases/6.4.5/RC1&lt;/a1&gt;&lt;f2&gt; (changed in RC1) and &lt;/f2&gt;&lt;a3&gt;https://wiki.documentfoundation.org/Releases/6.4.5/RC2&lt;/a3&gt;&lt;f4&gt; (changed in RC2).&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015400Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015400Z">
+        <seg>&lt;f0&gt;LibreOffice 6.4.5の変更履歴はTDFのwikiでご覧いただけます: &lt;/f0&gt;&lt;a1&gt;https://wiki.documentfoundation.org/Releases/6.4.5/RC1&lt;/a1&gt;&lt;f2&gt; (RC1で修正) &lt;/f2&gt;&lt;a3&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC2&lt;/a3&gt;&lt;f4&gt;(RC2で修正)&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice 6.&lt;/f0&gt;&lt;f1&gt;4.&lt;/f1&gt;&lt;f2&gt;4&lt;/f2&gt;&lt;f3&gt;’s&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;change log page&lt;/f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;are available on TDF’s wiki&lt;/f8&gt;&lt;f9&gt;: &lt;/f9&gt;&lt;a10&gt;&lt;f11&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC1&lt;/f11&gt;&lt;/a10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;(changed in RC1) &lt;/f13&gt;&lt;f14&gt;and&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;a16&gt;&lt;f17&gt;https://wiki.documentfoundation.org/Releases/6.4.4/RC2&lt;/f17&gt;&lt;/a16&gt;&lt;f18&gt; (ch&lt;/f18&gt;&lt;f19&gt;a&lt;/f19&gt;&lt;f20&gt;nged in RC2).&lt;/f20&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T034924Z" creationid="naruhiko" creationdate="20200521T033727Z">
@@ -128,8 +144,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice individual users are supported by a global community of volunteers: &lt;/f0&gt;&lt;a1&gt;https://www.libreoffice.org/get-help/community-support/&lt;/a1&gt;&lt;f2&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015015Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015015Z">
-        <seg>世界中にいるボランティアがLibreOfficeを利用する個人ユーザーを手助けしてくれます:  https://ja.libreoffice.org/get-help/community-support/&lt;/a1&gt;&lt;f0&gt;&lt;/f0&gt;&lt;f2&gt;</seg>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015029Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015015Z">
+        <seg>世界中にいるボランティアがLibreOfficeを利用する個人ユーザーを手助けしてくれます:  https://ja.libreoffice.org/get-help/community-support/&lt;f0&gt;&lt;/f0&gt;&lt;a1&gt;&lt;/a1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Availability of LibreOffice 6.4.5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015121Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015121Z">
+        <seg>LibreOffice 6.4.5の利用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Berlin, July 2, 2020 – The Document Foundation announces the availability of LibreOffice 6.4.5, the 5th minor release of the LibreOffice 6.4 family, targeted at technology enthusiasts and power users.</seg>
       </tuv>
       <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014214Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014214Z">
         <seg>ベルリン、2020年7月2日 - The Document FoundationはLibreOffice 6.4.5が利用可能になったことをお知らせします。このバージョンはLibreOffice 6.5系の5番目のマイナーリリースであり、技術に情熱を燃やす方や、熟練したユーザー向けです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Donations help us to make all of these resources available.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015107Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015107Z">
+        <seg>寄付のおかげでこれらの全ての資料が利用可能になっています。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,10 +256,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Minimum requirements are specified on the download page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015214Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015214Z">
+        <seg>最小の必須要件はダウンロードのページに書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the website and the wiki there &lt;/f2&gt;&lt;f3&gt;are guides, manuals, tutorials and HowTo&lt;/f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;f5&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T033408Z" creationid="naruhiko" creationdate="20200521T033408Z">
         <seg>Webサイトおよびwikiにガイドやマニュアル、チュートリアル、ハウツーがあります。&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the website and the wiki there are guides, manuals, tutorials and HowTos.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015044Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015018Z">
+        <seg>Webサイトおよびwikiにガイドやマニュアル、チュートリアル、ハウツーがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -244,6 +292,14 @@
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T033825Z" creationid="naruhiko" creationdate="20200521T033825Z">
         <seg>LibreOfficeを支援するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TDF builds of the latest LibreOffice Online source code are available as Docker images: &lt;/f2&gt;&lt;a3&gt;https://hub.docker.com/r/libreoffice/online/&lt;/a3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015234Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015234Z">
+        <seg>最新のLibreOffice OnlineのソースコードのTDF版ビルドはDockerイメージとして入手できます: &lt;/f2&gt;&lt;a3&gt;https://hub.docker.com/r/libreoffice/online/&lt;/a3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
