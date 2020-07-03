@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;All versions of LibreOffice are built with document conversion libraries from the Document Liberation Project: &lt;/f0&gt;&lt;a1&gt;https://www.documentliberation.org&lt;/a1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015427Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015427Z">
+        <seg>&lt;f0&gt;LibreOfficeのどのバージョンでも、Document Liberationプロジェクト &lt;/f0&gt;&lt;a1&gt;&lt;a2&gt;https://www.documentliberation.org&lt;&lt;/a1&gt;&lt;f2&gt;&lt;/f2&gt; による文書変換ライブラリの上に構築されています。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Availability of LibreOffice &lt;/f0&gt;&lt;f1&gt;6.&lt;/f1&gt;&lt;f2&gt;4.&lt;/f2&gt;&lt;f3&gt;4&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T034222Z" creationid="naruhiko" creationdate="20200521T033444Z">
@@ -248,10 +256,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice users are invited to join the community at &lt;a0&gt;https://ask.libreoffice.org&lt;/a0&gt;, where they can get and provide user-to-user support.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015500Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015500Z">
+        <seg>LibreOfficeユーザーは是非 &lt;a0&gt;https://ask.libreoffice.org/ja/&lt;/a0&gt; のコミュニティに加わってください。ユーザー同士でお互いに助け合えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice users are invited to&lt;f0&gt; join the community at &lt;/f0&gt;&lt;a1&gt;https://&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;ask.libreoffice.org&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt;, where &lt;/f4&gt;they&lt;f5&gt; can get and provide user-to-user support.</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T035134Z" creationid="naruhiko" creationdate="20200521T033843Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;LibreOfficeユーザーは是非 &lt;a1&gt;https://ask.libreoffice.org/ja/&lt;/a1&gt; のコミュニティに加わってください。ユーザー同士でお互いに助け合えます。&lt;a2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice users, free software advocates and community members can provide financial support to The Document Foundation with a donation via PayPal, credit card or other tools at &lt;a0&gt;https://www.libreoffice.org/donate&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015538Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015538Z">
+        <seg>LibreOfficeのユーザーおよびフリーソフトウェアに賛同する方、コミュニティのメンバーは、PayPalやクレジットカード、その他のツールを用いて寄付することでThe Document Foundationを支援できます: &lt;a0&gt;&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -284,6 +308,14 @@
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T035157Z" creationid="naruhiko" creationdate="20200521T033914Z">
         <seg>&lt;/f5&gt;プロジェクトのために時間や専門的なスキルを貢献しようという方のためのサイトもあります: &lt;a6&gt;https://whatcanidoforlibreoffice.org&lt;f7&gt;&lt;/f7&gt;&lt;/a6&gt;&lt;f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>People willing to contribute their time and professional skills to the project can visit the dedicated website at &lt;a1&gt;https://whatcanidoforlibreoffice.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015514Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015514Z">
+        <seg>プロジェクトのために時間や専門的なスキルを貢献しようという方のためのサイトもあります: &lt;a1&gt;https://whatcanidoforlibreoffice.org&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
