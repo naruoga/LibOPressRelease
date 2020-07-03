@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>--&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015653Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015653Z">
+        <seg>--&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f11&gt;&lt;f12&gt;Minimum requirements &lt;/f12&gt;&lt;f13&gt;are specified on the download page&lt;/f13&gt;&lt;f14&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T033628Z" creationid="naruhiko" creationdate="20200521T033628Z">
@@ -34,6 +42,22 @@
       </tuv>
       <tuv lang="ja" changeid="naruhiko" changedate="20200521T033047Z" creationid="naruhiko" creationdate="20200521T033047Z">
         <seg>より成熟したバージョンを求めるユーザーの方向けには、数ヶ月に渡る修正がバックポートされたLibreOffice 6.3.6がご利用いただけます。&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a1&gt;https://blog.documentfoundation.org/blog/2020/07/02/announcement-of-libreoffice-6-4-5/&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015649Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015649Z">
+        <seg>&lt;a1&gt;https://blog.documentfoundation.org/blog/2020/07/02/announcement-of-libreoffice-6-4-5/&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015652Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015652Z">
+        <seg>&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +246,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blog post:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015645Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015645Z">
+        <seg>ブログ記事：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Donations help us to make all of these resources available.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015107Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015107Z">
         <seg>寄付のおかげでこれらの全ての資料が利用可能になっています。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Italo Vignoli - Marketing &amp; PR&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015655Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015655Z">
+        <seg>Italo Vignoli - Marketing &amp; PR&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,10 +376,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Document Foundation &amp; LibreOffice&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015656Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015656Z">
+        <seg>The Document Foundation &amp; LibreOffice&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Users of LibreOffice 6.3.6 and previous versions should start planning the update to LibreOffice 6.4.5, as the new major LibreOffice release – tagged 7.0 – is going to be announced in early August.</seg>
       </tuv>
       <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T014716Z" creationid="Naruhiko Ogasawara" creationdate="20200703T014629Z">
         <seg>LibreOffice 6.3.6 およびそれ以前のバージョンのユーザーは LibreOffice 6.4.5へのアップデートを計画してください。 LibreOffice の新しいリリース - タグ 7.0 とされています - は、 8 月初旬に発表される予定です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>email &lt;a7&gt;italo.vignoli@documentfoundation.org&lt;/a7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015657Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015657Z">
+        <seg>email &lt;a7&gt;italo.vignoli@documentfoundation.org&lt;/a7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hangout/jabber &lt;a9&gt;italo.vignoli@gmail.com&lt;/a9&gt;&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015658Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015658Z">
+        <seg>hangout/jabber &lt;a9&gt;italo.vignoli@gmail.com&lt;/a9&gt;&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mobile/signal +39.348.5653829</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Naruhiko Ogasawara" changedate="20200703T015707Z" creationid="Naruhiko Ogasawara" creationdate="20200703T015707Z">
+        <seg>mobile/signal +39.348.5653829</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
